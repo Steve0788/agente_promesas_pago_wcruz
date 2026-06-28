@@ -31,9 +31,8 @@ Pasos para ejecutar el proyecto.
 
 1. Clonar el repositorio
 ```bash
-git clone [http://127.0.0.1:7860/]
+git clone https://github.com/Steve0788/agente_promesas_pago_wcruz.git
 cd agente_promesas_pago_wcruz
-
 
 2. Crear y activar un entorno virtual 
 python -m venv venv
