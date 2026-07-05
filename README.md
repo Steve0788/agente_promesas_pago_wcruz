@@ -29,7 +29,7 @@ Este proyecto fue desarrollado como entrega final para el Semillero de Inteligen
 
 Pasos para ejecutar el proyecto.
 
-1. Clonar el repositorio
+1. *Repositorio*
 ```bash
 git clone https://github.com/Steve0788/agente_promesas_pago_wcruz.git
 cd agente_promesas_pago_wcruz
