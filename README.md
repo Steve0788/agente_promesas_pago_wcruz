@@ -93,8 +93,8 @@ A continuación, se muestra un diagrama simplificado del flujo de trabajo del ag
          │
          ▼
 ┌─────────────────────────────────┐
-│ El agente decide si necesita   │
-│ usar alguna herramienta.       │
+│ El agente decide si necesita    │
+│ usar alguna herramienta.        │
 └─────────────────────────────────┘
          │
     ┌────┴────┐
@@ -103,8 +103,8 @@ A continuación, se muestra un diagrama simplificado del flujo de trabajo del ag
 [Herramienta] [Respuesta Directa]
     │              │
     ▼              │
-[Observa el       │
- resultado]       │
+[Observa el        │
+ resultado]        │
     │              │
     └──────┬───────┘
            ▼
@@ -139,5 +139,5 @@ Steve– Steve0788
 📚 Agradecimientos
 #Este proyecto fue desarrollado como parte del Semillero de Inteligencia Artificial, aplicando todas las lecciones y herramientas aprendidas durante el curso.
 
-Los nombres de los clientes son homenaje a los héroes del videojuego Dota 2.
+Los nombres de los clientes son referencia a los héroes del videojuego Dota 2.
 
